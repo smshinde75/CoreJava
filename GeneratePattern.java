@@ -13,6 +13,8 @@ To generate below given pattern, n=13 here:
    56,57,58,59,60,61,62,63,64,65,66
  78,77,76,75,74,73,72,71,70,69,68,67
 79,80,81,82,83,84,85,86,87,88,89,90,91
+
+Program by Sameer Shinde (smshinde@gmail.com)
 */
 
 
